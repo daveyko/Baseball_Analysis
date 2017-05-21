@@ -35,5 +35,4 @@ install plotly
 
 to view plotly charts: 
 
-
-
+http://nbviewer.jupyter.org/github/daveyko/Baseball_Analysis/blob/a9e4a1f8a29836e78d4b41baf7692a596cc4f50d/baseball_analysis.ipynb
